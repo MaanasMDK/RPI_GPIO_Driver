@@ -1,5 +1,5 @@
 /***************************************************************************//**
-*  \file       driver.c
+*  \file       main.c
 *
 *  \details    Simple GPIO driver explanation
 *
